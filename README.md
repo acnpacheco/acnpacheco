@@ -28,6 +28,15 @@ Scrum · Kanban · Lean · Gestão de Fluxo · Métricas Ágeis · Facilitação
 
 Jira · Confluence · Azure DevOps · Power BI · Excel · Miro · ChatGPT · Claude · Copilot
 
-## ✉️ Contato
+## 🌐 Vamos nos conectar
 
-acnpacheco@gmail.com
+🐙 **GitHub:** github.com/acnpacheco
+
+💼 **LinkedIn:** linkedin.com/in/acnpacheco
+
+📷 **Instagram:** @acnpacheco
+
+💬 **WhatsApp:** @acnpacheco
+
+📧 **E-mail:** acnpacheco@gmail.com
+
