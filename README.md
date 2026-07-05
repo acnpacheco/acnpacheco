@@ -19,7 +19,6 @@ A resposta veio da minha vivência em Agilidade: quando um Scrum Master ou Agile
 
 Foi para resolver esse desafio que nasceu o **FlowOps AI**: uma plataforma de apoio à gestão ágil que utiliza Inteligência Artificial para consolidar métricas de fluxo, indicadores DORA, qualidade, forecast de sprint e um copiloto baseado em Claude API para gerar insights, análises e status reports automáticos. O objetivo é ampliar a capacidade analítica do Scrum Master e permitir que ele escale sua atuação mantendo o foco na melhoria contínua e na geração de valor.
 - Demo: https://acnpacheco.github.io/flowops-ai/flowinsight.html
-- Repositório: https://github.com/acnpacheco/flowops-ai
 
 ## 🎯 Competências  
 
