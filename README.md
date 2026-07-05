@@ -6,10 +6,11 @@ Atuo conectando negócio, tecnologia e times para melhorar fluxo, previsibilidad
 
 ## 🧭 Frentes de atuação
 
-- Agilidade & Entrega (Scrum, Kanban, Lean, facilitação de cerimônias, gestão de fluxo)
-- Processos & Melhoria Contínua (governança em Jira/Confluence, indicadores, gestão de riscos)
-- IA aplicada à Gestão (engenharia de prompt, governança de IA, automação de fluxos de trabalho)
-
+- **Agilidade & Entrega** - Scrum • Kanban • Lean • Gestão de Fluxo • Previsibilidade
+- **Gestão de Processos** - Governança • Indicadores • Melhoria Contínua • Eficiência Operacional
+- **Produto & Valor** - Backlog • Discovery • Priorização • Alinhamento Negócio × Tecnologia
+- **IA aplicada à Gestão** - Engenharia de Contexto • Automação Inteligente • Status Reports Executivos • Análise de Indicadores • Apoio à Tomada de Decisão
+  
 ## 🚀 Projeto em destaque
 
 **FlowOps AI** nasceu da principal pergunta trabalhada na minha jornada de IA Builder: **"Qual é a maior dor que eu posso resolver com IA?"**
