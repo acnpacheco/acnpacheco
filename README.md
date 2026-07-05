@@ -1,8 +1,8 @@
 # Olá, sou a Ana Cristina Pacheco 👋
 
-Scrum Master Sênior · Agile Delivery · IA aplicada à Gestão e Transformação Digital
+Scrum Master Sênior | Agile Delivery | Gestão de Processos | IA aplicada à Agilidade
 
-Conectando negócio, processos e tecnologia — facilitando entregas previsíveis em times ágeis e aplicando Inteligência Artificial (engenharia de prompt, governança de IA, automação) para ampliar a produtividade e a tomada de decisão em gestão de produtos e projetos.
+Atuo conectando negócio, tecnologia e times para melhorar fluxo, previsibilidade e tomada de decisão. Tenho experiência com Scrum, Kanban, Jira, Confluence, Azure DevOps, métricas ágeis e aplicação de IA para automação, análise e melhoria contínua.
 
 ## 🧭 Frentes de atuação
 
@@ -12,13 +12,21 @@ Conectando negócio, processos e tecnologia — facilitando entregas previsívei
 
 ## 🚀 Projeto em destaque
 
-**FlowOps AI** — dashboard de gestão ágil com IA para Scrum Masters: métricas de fluxo, DORA e qualidade, forecast de sprint e copiloto de IA (Claude API) para insights e status reports automáticos. Nascido da minha certificação de IA Builder.
+**FlowOps AI** nasceu da principal pergunta trabalhada na minha jornada de IA Builder: **"Qual é a maior dor que eu posso resolver com IA?"**
+
+A resposta veio da minha vivência em Agilidade: quando um Scrum Master ou Agile Master atua apoiando **múltiplos times multidisciplinares**, o maior desafio deixa de ser facilitar cerimônias e passa a ser **preservar a qualidade da atuação do agilista**. Isso significa manter uma visão consistente sobre previsibilidade, fluxo, riscos, gargalos, capacidade e evolução dos times, sem perder profundidade nas análises ou comprometer a tomada de decisão.
+
+Foi para resolver esse desafio que nasceu o **FlowOps AI**: uma plataforma de apoio à gestão ágil que utiliza Inteligência Artificial para consolidar métricas de fluxo, indicadores DORA, qualidade, forecast de sprint e um copiloto baseado em Claude API para gerar insights, análises e status reports automáticos. O objetivo é ampliar a capacidade analítica do Scrum Master e permitir que ele escale sua atuação mantendo o foco na melhoria contínua e na geração de valor.
 - Demo: https://acnpacheco.github.io/flowops-ai/flowinsight.html
 - Repositório: https://github.com/acnpacheco/flowops-ai
 
+## 🎯 Competências  
+
+Scrum · Kanban · Lean · Gestão de Fluxo · Métricas Ágeis · Facilitação · Melhoria Contínua · Gestão de Riscos · Governança
+
 ## 🛠️ Ferramentas
 
-Jira · Confluence · Azure DevOps · Scrum · Kanban · Lean · ChatGPT · Claude · Copilot · Prompt Engineering
+Jira · Confluence · Azure DevOps · Power BI · Excel · Miro · ChatGPT · Claude · Copilot
 
 ## ✉️ Contato
 
