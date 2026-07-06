@@ -1,32 +1,67 @@
-# Olá, sou a Ana Cristina Pacheco 👋
 
-Scrum Master Sênior | Agile Delivery | Gestão de Processos | IA aplicada à Agilidade
+# Olá, sou Ana Cristina Pacheco 👋
 
-Atuo conectando negócio, tecnologia e times para melhorar fluxo, previsibilidade e tomada de decisão. Tenho experiência com Scrum, Kanban, Jira, Confluence, Azure DevOps, métricas ágeis e aplicação de IA para automação, análise e melhoria contínua.
+Agile Master | Scrum Master Sênior | Agile Delivery | Gestão de Processos | IA aplicada à Agilidade | FlowOps AI
+
+Ajudo organizações a melhorar previsibilidade, fluxo de trabalho e tomada de decisão, unindo práticas ágeis, gestão de processos e Inteligência Artificial.
+
+Minha experiência está concentrada em ambientes corporativos de alta complexidade nos segmentos financeiro, seguros e tecnologia, atuando na conexão entre negócio, produto e times de desenvolvimento.
 
 ## 🧭 Frentes de atuação
 
-- **Agilidade & Entrega** - Scrum • Kanban • Lean • Gestão de Fluxo • Previsibilidade
-- **Gestão de Processos** - Governança • Indicadores • Melhoria Contínua • Eficiência Operacional
-- **Produto & Valor** - Backlog • Discovery • Priorização • Alinhamento Negócio × Tecnologia
-- **IA aplicada à Gestão** - Engenharia de Contexto • Automação Inteligente • Status Reports Executivos • Análise de Indicadores • Apoio à Tomada de Decisão
+🚀 **Agilidade & Delivery**
+
+      Scrum · Kanban · Lean · Gestão de Fluxo · Métricas Ágeis · DORA · Previsibilidade · Melhoria Contínua
+
+⚙️ **Gestão de Processos**
+
+      Governança · Indicadores · Eficiência Operacional · Riscos · Dependências · Fluxo ponta a ponta
+
+🎯 **Produto & Valor**
+
+      Backlog · Discovery · Priorização · Roadmap · User Stories · Critérios de Aceite · Alinhamento Negócio × Tecnologia · Geração de Valor
+
+🤖 **IA Aplicada à Gestão**
+
+      Engenharia de Contexto · Prompt Engineering · Automação Inteligente · Status Reports · Análise de Indicadores · Apoio à Tomada de Decisão
   
 ## 🚀 Projeto em destaque
 
-**FlowOps AI** nasceu da principal pergunta trabalhada na minha jornada de IA Builder: **"Qual é a maior dor que eu posso resolver com IA?"**
+FlowOps AI nasceu da principal pergunta feita durante minha certificação IA Builder:
 
-A resposta veio da minha vivência em Agilidade: quando um Scrum Master ou Agile Master atua apoiando **múltiplos times multidisciplinares**, o maior desafio deixa de ser facilitar cerimônias e passa a ser **preservar a qualidade da atuação do agilista**. Isso significa manter uma visão consistente sobre previsibilidade, fluxo, riscos, gargalos, capacidade e evolução dos times, sem perder profundidade nas análises ou comprometer a tomada de decisão.
+  "Qual problema real pode ser resolvido com Inteligência Artificial?"
 
-Foi para resolver esse desafio que nasceu o **FlowOps AI**: uma plataforma de apoio à gestão ágil que utiliza Inteligência Artificial para consolidar métricas de fluxo, indicadores DORA, qualidade, forecast de sprint e um copiloto baseado em Claude API para gerar insights, análises e status reports automáticos. O objetivo é ampliar a capacidade analítica do Scrum Master e permitir que ele escale sua atuação mantendo o foco na melhoria contínua e na geração de valor.
-- Demo: https://acnpacheco.github.io/flowops-ai/flowinsight.html
+   A resposta veio da minha experiência como Agile Master.
+
+Quando um profissional apoia múltiplos times, o desafio deixa de ser apenas facilitar cerimônias e passa a ser consolidar informações, interpretar métricas e apoiar decisões com rapidez e qualidade.
+
+O FlowOps AI demonstra como a Inteligência Artificial pode atuar como um copiloto para profissionais de Agilidade, consolidando métricas de fluxo, indicadores DORA, riscos, capacidade e previsibilidade em dashboards executivos apoiados por IA.
+
+🔗 Demonstração:
+           https://acnpacheco.github.io/flowops-ai/flowinsight.html
 
 ## 🎯 Competências  
 
-Scrum · Kanban · Lean · Gestão de Fluxo · Métricas Ágeis · Facilitação · Melhoria Contínua · Gestão de Riscos · Governança
+🚀 **Agilidade & Delivery**
 
-## 🛠️ Ferramentas
+      Scrum · Kanban · Lean · SAFe · Gestão de Fluxo · Métricas Ágeis/DORA · Facilitação · Previsibilidade · Melhoria Contínua
 
-Jira · Confluence · Azure DevOps · Power BI · Excel · Miro · ChatGPT · Claude · Copilot
+⚙️ **Gestão de Processos**
+
+     Stakeholders · Processos · Governança · Backlog · Gestão de Riscos · Gestão de Dependências · Comunicação Executiva
+
+🎯 **Produto & Valor**
+
+      Backlog · Discovery · Priorização · Roadmap · User Stories · Critérios de Aceite · Alinhamento Negócio × Tecnologia
+
+🤖 **IA Aplicada à Gestão**
+
+      Prompt Engineering · Engenharia de Contexto · Automação Inteligente · Status Report com IA · Análise de Indicadores · Apoio à Tomada de Decisão 
+
+🛠️ **Ferramentas**
+
+      Jira · Confluence · Azure DevOps · Power BI · Excel · Miro · ChatGPT · Claude · Copilot · GitHub . n8n
+      
 
 ## 🌐 Vamos nos conectar
 
