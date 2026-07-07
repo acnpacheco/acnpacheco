@@ -34,9 +34,10 @@ O FlowOps AI nasceu da principal pergunta feita durante minha certificação IA 
 
 A resposta veio da minha experiência como Scrum Master e Agile Leader.
 
-Quando um profissional apoia múltiplos squads, o desafio deixa de ser apenas facilitar cerimônias. Passa a ser consolidar informações, interpretar métricas, identificar riscos, acompanhar dependências e apoiar decisões com rapidez, clareza e qualidade.
+Quando um profissional apoia múltiplos squads, o desafio deixa de ser apenas facilitar cerimônias. **Passa a ser consolidar informações, interpretar métricas, identificar riscos, acompanhar dependências e apoiar decisões com rapidez, clareza e qualidade.**
 
 O **FlowOps AI** demonstra como a Inteligência Artificial pode atuar como um **copiloto para profissionais de Agilidade**, apoiando a gestão inteligente de:
+  
       - métricas de fluxo;
       - indicadores DORA;
       - capacidade dos times;
