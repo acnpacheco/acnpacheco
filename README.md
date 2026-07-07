@@ -28,20 +28,24 @@ Atualmente direciono minha atuação para IA aplicada à Gestão Ágil, desenvol
       Context Engineering · Prompt Engineering · AI Copilots · Automação Inteligente · Status Reports · Executive Insights · Apoio à Tomada de Decisão
   
 ## 🚀 FlowOps AI — Copiloto de IA para Gestão Ágil
+O FlowOps AI nasceu da principal pergunta feita durante minha certificação IA Builder:
 
-FlowOps AI nasceu durante minha certificação IA Builder a partir de uma pergunta simples:
+      “Qual problema real pode ser resolvido com Inteligência Artificial?”
 
-  "Qual problema real pode ser resolvido com Inteligência Artificial?"
+A resposta veio da minha experiência como Scrum Master e Agile Leader.
 
-A resposta veio da minha experiência como Agile Master.
+Quando um profissional apoia múltiplos squads, o desafio deixa de ser apenas facilitar cerimônias. Passa a ser consolidar informações, interpretar métricas, identificar riscos, acompanhar dependências e apoiar decisões com rapidez, clareza e qualidade.
 
-À medida que Scrum Masters, Agile Coaches e Delivery Managers passam a apoiar múltiplos squads, o maior desafio deixa de ser facilitar cerimônias e passa a ser transformar grandes volumes de dados em decisões rápidas, consistentes e orientadas por valor.
+O **FlowOps AI** demonstra como a Inteligência Artificial pode atuar como um **copiloto para profissionais de Agilidade**, apoiando a gestão inteligente de:
 
-Foi assim que surgiu o FlowOps AI.
-
-Mais do que um dashboard, o projeto evoluiu para um Copiloto de IA para Gestão Ágil, capaz de consolidar indicadores operacionais, interpretar métricas de fluxo e apoiar líderes na gestão de produtos, programas e portfólios.
-
-O objetivo é reduzir esforço operacional, aumentar previsibilidade e transformar dados em recomendações acionáveis para tomada de decisão.
+métricas de fluxo;
+indicadores DORA;
+capacidade dos times;
+riscos e impedimentos;
+dependências entre squads;
+previsibilidade das entregas;
+saúde operacional;
+tomada de decisão executiva.
 
 🔗 Demonstração do **Copiloto de IA para Gestão Ágil**:
         https://acnpacheco.github.io/flowops-ai/flowinsight.html
