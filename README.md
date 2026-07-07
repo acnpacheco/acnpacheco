@@ -30,22 +30,21 @@ Atualmente direciono minha atuação para IA aplicada à Gestão Ágil, desenvol
 ## 🚀 FlowOps AI — Copiloto de IA para Gestão Ágil
 O FlowOps AI nasceu da principal pergunta feita durante minha certificação IA Builder:
 
-      “Qual problema real pode ser resolvido com Inteligência Artificial?”
+     > “Qual problema real pode ser resolvido com Inteligência Artificial?”
 
 A resposta veio da minha experiência como Scrum Master e Agile Leader.
 
 Quando um profissional apoia múltiplos squads, o desafio deixa de ser apenas facilitar cerimônias. Passa a ser consolidar informações, interpretar métricas, identificar riscos, acompanhar dependências e apoiar decisões com rapidez, clareza e qualidade.
 
 O **FlowOps AI** demonstra como a Inteligência Artificial pode atuar como um **copiloto para profissionais de Agilidade**, apoiando a gestão inteligente de:
-
-métricas de fluxo;
-indicadores DORA;
-capacidade dos times;
-riscos e impedimentos;
-dependências entre squads;
-previsibilidade das entregas;
-saúde operacional;
-tomada de decisão executiva.
+      - métricas de fluxo;
+      - indicadores DORA;
+      - capacidade dos times;
+      - riscos e impedimentos;
+      - dependências entre squads;
+      - previsibilidade das entregas;
+      - saúde operacional;
+      - tomada de decisão executiva.
 
 🔗 Demonstração do **Copiloto de IA para Gestão Ágil**:
         https://acnpacheco.github.io/flowops-ai/flowinsight.html
