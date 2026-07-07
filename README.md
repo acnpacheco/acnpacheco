@@ -30,7 +30,7 @@ Atualmente direciono minha atuação para IA aplicada à Gestão Ágil, desenvol
 ## 🚀 FlowOps AI — Copiloto de IA para Gestão Ágil
 O FlowOps AI nasceu da principal pergunta feita durante minha certificação IA Builder:
 
-     > “Qual problema real pode ser resolvido com Inteligência Artificial?”
+ > **"Qual problema real pode ser resolvido com Inteligência Artificial?"**
 
 A resposta veio da minha experiência como Scrum Master e Agile Leader.
 
