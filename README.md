@@ -37,15 +37,15 @@ A resposta veio da minha experiência como Scrum Master e Agile Leader.
 Quando um profissional apoia múltiplos squads, o desafio deixa de ser apenas facilitar cerimônias. **Passa a ser consolidar informações, interpretar métricas, identificar riscos, acompanhar dependências e apoiar decisões com rapidez, clareza e qualidade.**
 
 O **FlowOps AI** demonstra como a Inteligência Artificial pode atuar como um **copiloto para profissionais de Agilidade**, apoiando a gestão inteligente de:
-  
-      - métricas de fluxo;
-      - indicadores DORA;
-      - capacidade dos times;
-      - riscos e impedimentos;
-      - dependências entre squads;
-      - previsibilidade das entregas;
-      - saúde operacional;
-      - tomada de decisão executiva.
+- **Métricas de fluxo:** Lead Time, Cycle Time, Throughput, WIP, Aging e CFD
+- **Indicadores DORA:** Deployment Frequency, Lead Time for Changes, Change Failure Rate e MTTR
+- **Capacidade dos times:** capacidade planejada, capacidade disponível, alocação por papel e previsibilidade de entrega
+- **Riscos e impedimentos:** bloqueios técnicos, dependências externas, gargalos de ambiente, atrasos e decisões pendentes
+- **Dependências entre squads:** integrações, entregas cruzadas, handoffs, alinhamentos com PO, Tech Lead, QA e stakeholders
+- **Previsibilidade das entregas:** burndown, burnup, aderência ao planejamento, entregas previstas versus realizadas
+- **Saúde operacional:** fluxo de trabalho, gargalos, volume em WIP, aging elevado, estabilidade da sprint e qualidade da entrega
+- **Tomada de decisão executiva:** status report, indicadores consolidados, insights com IA, riscos priorizados e recomendações de ação
+
 
 🔗 Demonstração do **Copiloto de IA para Gestão Ágil**:
         https://acnpacheco.github.io/flowops-ai/flowinsight.html
