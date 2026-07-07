@@ -13,34 +13,38 @@ Atualmente direciono minha atuação para IA aplicada à Gestão Ágil, desenvol
 
 🚀 **Agilidade & Delivery**
 
-      Scrum · Kanban · Lean · Gestão de Fluxo · Métricas Ágeis · DORA · Previsibilidade · Melhoria Contínua
+      Scrum · Kanban · Lean · SAFe · Gestão de Fluxo · Métricas Ágeis · DORA · Value Stream Management · Previsibilidade · Melhoria Contínua
 
 ⚙️ **Gestão de Processos**
 
-      Governança · Indicadores · Eficiência Operacional · Riscos · Dependências · Fluxo ponta a ponta
+      Governança · Indicadores · Eficiência Operacional · Gestão de Portfólio · Gestão de Dependências · Gestão de Riscos · Fluxo ponta a ponta
 
 🎯 **Produto & Valor**
 
-      Backlog · Discovery · Priorização · Roadmap · User Stories · Critérios de Aceite · Alinhamento Negócio × Tecnologia · Geração de Valor
-
+      Backlog · Discovery · Priorização · Roadmap · User Stories · Critérios de Aceite · OKRs · Value Streams · Alinhamento Negócio × Tecnologia
+      
 🤖 **IA Aplicada à Gestão**
 
-      Engenharia de Contexto · Prompt Engineering · Automação Inteligente · Status Reports · Análise de Indicadores · Apoio à Tomada de Decisão
+      Context Engineering · Prompt Engineering · AI Copilots · Automação Inteligente · Status Reports · Executive Insights · Apoio à Tomada de Decisão
   
-## 🚀 Projeto em destaque
+## 🚀 FlowOps AI — Copiloto de IA para Gestão Ágil
 
-FlowOps AI nasceu da principal pergunta feita durante minha certificação IA Builder:
+FlowOps AI nasceu durante minha certificação IA Builder a partir de uma pergunta simples:
 
   "Qual problema real pode ser resolvido com Inteligência Artificial?"
 
-   A resposta veio da minha experiência como Agile Master.
+A resposta veio da minha experiência como Agile Master.
 
-Quando um profissional apoia múltiplos times, o desafio deixa de ser apenas facilitar cerimônias e passa a ser consolidar informações, interpretar métricas e apoiar decisões com rapidez e qualidade.
+À medida que Scrum Masters, Agile Coaches e Delivery Managers passam a apoiar múltiplos squads, o maior desafio deixa de ser facilitar cerimônias e passa a ser transformar grandes volumes de dados em decisões rápidas, consistentes e orientadas por valor.
 
-O FlowOps AI demonstra como a Inteligência Artificial pode atuar como um copiloto para profissionais de Agilidade, consolidando métricas de fluxo, indicadores DORA, riscos, capacidade e previsibilidade em dashboards executivos apoiados por IA.
+Foi assim que surgiu o FlowOps AI.
 
-🔗 Demonstração:
-           https://acnpacheco.github.io/flowops-ai/flowinsight.html
+Mais do que um dashboard, o projeto evoluiu para um Copiloto de IA para Gestão Ágil, capaz de consolidar indicadores operacionais, interpretar métricas de fluxo e apoiar líderes na gestão de produtos, programas e portfólios.
+
+O objetivo é reduzir esforço operacional, aumentar previsibilidade e transformar dados em recomendações acionáveis para tomada de decisão.
+
+🔗 Demonstração do **Copiloto de IA para Gestão Ágil**:
+        https://acnpacheco.github.io/flowops-ai/flowinsight.html
 
 ## 🎯 Competências  
 
