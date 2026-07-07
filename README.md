@@ -3,9 +3,13 @@
 
 Agile Master | Scrum Master Sênior | Agile Delivery | Gestão de Processos | IA aplicada à Agilidade | FlowOps AI
 
-Ajudo organizações a melhorar previsibilidade, fluxo de trabalho e tomada de decisão, unindo práticas ágeis, gestão de processos e Inteligência Artificial.
+Agile Master | Scrum Master Sênior | Gestão de Fluxo | SAFe | IA aplicada à Gestão Ágil
 
-Minha experiência está concentrada em ambientes corporativos de alta complexidade nos segmentos financeiro, seguros e tecnologia, atuando na conexão entre negócio, produto e times de desenvolvimento.
+Ajudo organizações a aumentar previsibilidade, eficiência operacional e geração contínua de valor por meio da integração entre Agilidade, Gestão de Fluxo, Lean, SAFe e Inteligência Artificial.
+
+Minha experiência é especializada em ambientes corporativos de alta complexidade nos segmentos financeiro, seguros e tecnologia, conectando estratégia, produto, desenvolvimento de software e melhoria contínua.
+
+Atualmente direciono minha atuação para IA aplicada à Gestão Ágil, desenvolvendo soluções que apoiam Scrum Masters, Agile Coaches, Delivery Managers, RTEs e líderes de tecnologia na tomada de decisão baseada em dados.
 
 ## 🧭 Frentes de atuação
 
