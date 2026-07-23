@@ -1,7 +1,7 @@
 
 # Olá, sou Ana Cristina Pacheco 👋
 
-**`Agile Coach Sênior` | `Scrum Master Sênior` | `Gestão de Fluxo` | `SAFe®` |  `IA aplicada à Gestão Ágil` | `IA Builder`|**
+** `Scrum Master`  | `Agile Coach`| `Gestão de Fluxo` | `SAFe®` |  `IA aplicada à Gestão Ágil` | `IA Builder`|**
 
 Ajudo organizações a aumentar previsibilidade, eficiência operacional e geração contínua de valor por meio da integração entre Agilidade, Gestão de Fluxo, Lean, SAFe® e Inteligência Artificial.
 
