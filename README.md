@@ -1,9 +1,9 @@
 
 # Olá, sou Ana Cristina Pacheco 👋
 
-**`Scrum Master`  | `Agile Master`| `Gestão de Produtos` | `Liderança de Squads ` | `IA aplicada à Gestão Ágil` | `IA Builder`|**
+**`Scrum Master`  | `Agile Master`| `Gestão de Produtos` | `Liderança de Squads` | `IA aplicada à Gestão Ágil` | `IA Builder`|**
 
-Ajudo organizações a aumentar previsibilidade, eficiência operacional e geração contínua de valor por meio da integração entre Agilidade, Gestão de Fluxo, Lean, SAFe® e Inteligência Artificial.
+ `Ajudo` organizações a aumentar previsibilidade, eficiência operacional e geração contínua de valor por meio da integração entre Agilidade, Gestão de Fluxo, Lean, SAFe® e Inteligência Artificial.
 
 Minha experiência é especializada em ambientes corporativos de alta complexidade nos segmentos financeiro, seguros e tecnologia, conectando estratégia, produto, desenvolvimento de software e melhoria contínua.
 
