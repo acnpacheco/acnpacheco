@@ -79,8 +79,6 @@ O **FlowOps AI** demonstra como a Inteligência Artificial pode atuar como um **
 
 💼 **LinkedIn:** linkedin.com/in/acnpacheco
 
-📷 **Instagram:** @acnpacheco
-
 💬 **WhatsApp:** @acnpacheco
 
 📧 **E-mail:** acnpacheco@gmail.com
