@@ -9,6 +9,11 @@ Minha experiência é especializada em ambientes corporativos de alta complexida
 
 Atualmente direciono minha atuação para IA aplicada à Gestão Ágil, desenvolvendo soluções que apoiam Scrum Masters, Agile Coaches, Delivery Managers, RTEs e líderes de tecnologia na tomada de decisão baseada em dados.
 
+## 💼 Portfólio de projetos
+| Projeto | Apresentação |
+|---|---|
+| [**FlowOps AI — Gestão Ágil com IA**](https://acnpacheco.github.io/flowops-ai/flowinsight.html) | Projeto voltado à gestão de fluxo, métricas, riscos e previsibilidade das entregas. |
+| [**Forma — Portfólio de Design Instrucional**](https://acnpacheco.github.io/portfolio-design-instrucional/) | Ambiente demonstrativo para organizar projetos, diagnóstico de necessidades de aprendizagem, entregas e indicadores, com exemplos fictícios. |
 ## 🧭 Frentes de atuação
 
 🚀 **Agilidade & Delivery**
